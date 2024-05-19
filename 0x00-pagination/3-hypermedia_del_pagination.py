@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Deletion-resilient hypermedia pagination
 """
@@ -64,4 +63,3 @@ class Server:
             'data': page_data,
         }
         return page_info
-
